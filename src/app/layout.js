@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
             <Header />
           </section>
           <section className={`${gurb.className} `}>
-            <section className="max-w-screen-xl m-auto">{children}</section>
+            <section>{children}</section>
             {/* <Analytics /> */}
           </section>
           <section>

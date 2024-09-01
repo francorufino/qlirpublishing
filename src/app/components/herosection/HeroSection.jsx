@@ -75,7 +75,7 @@ const HeroSection = () => {
         <section className="m-auto">
           {" "}
           <Image
-            className="invisible md:visible md:px-2"
+            className="invisible md:visible md:px-"
             src={"/images/art/headphones.png"}
             width={150}
             height={150}

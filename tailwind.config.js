@@ -13,6 +13,7 @@ module.exports = {
         mwhite: "#fbf9f7",
         mdwhite: "#f9f6f2",
         mbrown: "#e1dbd6",
+        mdbrown: "#70580e",
         mlgray: "#e2e2e2",
         mgray: "#f0f2f0",
         mdgray: "#d1d1d1",

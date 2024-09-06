@@ -5,10 +5,12 @@ import products from "../../../data/products.json";
 const ProductsList = () => {
   return (
     <section>
-      <h1>All Products</h1>
+      <h1 className="px-6 text-mdbrown font-bold text-2xl bg-mbrown py-4">
+        All Products
+      </h1>
       <section
         id="Products"
-        className="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5"
+        className="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-12 gap-x-14 mt-10 mb-5"
       >
         {products.product.map((product) => (
           <ProductCard

@@ -43,9 +43,6 @@ const JustReleasedCarousel = () => {
 
   return (
     <section className="overflow-hidden">
-      <h1 className="max-w-screen-xl m-auto px-6 text-mdbrown font-bold text-2xl py-4 bg-mbrown">
-        Just Released!
-      </h1>
       <motion.section
         className="flex space-x-2"
         animate={controls}

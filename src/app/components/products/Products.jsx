@@ -1,19 +1,25 @@
 import React from "react";
-import JustReleasedCarousel from "./JustReleasedCarousel";
+// import JustReleasedCarousel from "./JustReleasedCarousel";
 import ProductsList from "./ProductsList";
 
 const Products = () => {
   return (
-    <section className=" bg-[url('/images/art/bg_products.png')]">
+    <section>
+      {/* <br />
       <br />
-      <br />
-      <section>
+      <h1 className="m-auto px-6 text-mdbrown text-center font-bold text-2xl py-4 bg-mbrown">
+        Released in the past 30 days!
+      </h1>
+      <section className="mt-2 mb-10">
         <JustReleasedCarousel />
       </section>
       <br />
-      <br />
-      <section className="max-w-screen-xl m-auto my-8 border-4 border-mbrown pt-12">
-        <section>
+      <br /> */}
+      {/* <h1 className="mt-8 px-6 text-mdbrown text-center font-bold text-2xl bg-mbrown py-4">
+        Our Products
+      </h1> */}
+      <section className=" m-auto my-8 ">
+        <section className=" pb-12">
           <ul className="flex justify-center gap-4 items-center text-xl">
             {" "}
             <li className="bg-mbrown py-4 px-6 rounded-lg">All</li>
@@ -39,7 +45,7 @@ const Products = () => {
         <br />
 
         <section>
-          <section className="max-w-screen-xl m-auto pb-8">
+          <section className=" m-auto pb-8">
             <ProductsList />
           </section>
         </section>

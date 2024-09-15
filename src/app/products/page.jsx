@@ -3,7 +3,7 @@ import Products from "../components/products/Products";
 
 const page = () => {
   return (
-    <section>
+    <section className=" bg-[url('/images/art/bg_products.png')]">
       <Products />
     </section>
   );

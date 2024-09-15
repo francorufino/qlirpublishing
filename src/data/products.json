@@ -2,6 +2,957 @@
   "product": [
     {
       "isbn": null,
+      "asin": "B0DGXF2Z17",
+      "title": "Germs, Virus, Bacteria, Science, Microscope Life Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 Pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space, this notebook combines practical features with a sleek, modern design.",
+      "release_date": "2024-09-08",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/germs_virus_bacteria_science_microscope_life_notebook_cover.png",
+        "back_cover": "images/products/germs_virus_bacteria_science_microscope_life_notebook_back_cover.png",
+        "entire_cover": "images/products/germs_virus_bacteria_science_microscope_life_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/germs_virus_bacteria_science_microscope_life_notebook_inner_1.png",
+          "images/products/germs_virus_bacteria_science_microscope_life_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/germs_virus_bacteria_science_microscope_life_notebook_mkt_1.png",
+        "mkt2": "images/products/germs_virus_bacteria_science_microscope_life_notebook_mkt_2.png",
+        "mkt3": "images/products/germs_virus_bacteria_science_microscope_life_notebook_mkt_3.png"
+      },
+      "other_notes": "Elegant design with light gray lines and white pages for a professional and comfortable writing experience. Ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "Creativity",
+          "Writing"
+        ]
+      },
+      "special_features": [
+        "Spacious Dimensions: 8.5 x 11 inches",
+        "College Ruled",
+        "Aesthetic Light Gray Lines",
+        "White Paper",
+        "Tactile Experience Cover",
+        "First Page Personalization"
+      ],
+      "amazon_link": "https://www.amazon.com/dp/B0DGXF2Z17"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGVCVRKM",
+      "title": "Pink & Blue Waterfall Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 Pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space, this notebook combines practical features with a sleek, modern design.",
+      "release_date": "2024-09-08",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/pink_blue_waterfall_notebook_cover.png",
+        "back_cover": "images/products/pink_blue_waterfall_notebook_back_cover.png",
+        "entire_cover": "images/products/pink_blue_waterfall_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/pink_blue_waterfall_notebook_inner_1.png",
+          "images/products/pink_blue_waterfall_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/pink_blue_waterfall_notebook_mkt_1.png",
+        "mkt2": "images/products/pink_blue_waterfall_notebook_mkt_2.png",
+        "mkt3": "images/products/pink_blue_waterfall_notebook_mkt_3.png"
+      },
+      "other_notes": "Elegant design with light gray lines and white pages for a professional and comfortable writing experience. Ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "Creativity",
+          "Writing"
+        ]
+      },
+      "special_features": [
+        "Spacious Dimensions: 8.5 x 11 inches",
+        "College Ruled",
+        "Aesthetic Light Gray Lines",
+        "White Paper",
+        "Tactile Experience Cover",
+        "First Page Personalization"
+      ],
+      "amazon_link": "https://www.amazon.com/dp/B0DGVCVRKM"
+    },
+
+    {
+      "isbn": null,
+      "asin": "B0DGVCTX42",
+      "title": "Man Pink Music Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 Pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space, this notebook combines practical features with a sleek, modern design.",
+      "release_date": "2024-09-08",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/man_pink_music_notebook_cover.png",
+        "back_cover": "images/products/man_pink_music_notebook_back_cover.png",
+        "entire_cover": "images/products/man_pink_music_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/man_pink_music_notebook_inner_1.png",
+          "images/products/man_pink_music_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/man_pink_music_notebook_mkt_1.png",
+        "mkt2": "images/products/man_pink_music_notebook_mkt_2.png",
+        "mkt3": "images/products/man_pink_music_notebook_mkt_3.png"
+      },
+      "other_notes": "Elegant design with light gray lines and white pages for a professional and comfortable writing experience. Ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "Creativity",
+          "Writing"
+        ]
+      },
+      "special_features": [
+        "Spacious Dimensions: 8.5 x 11 inches",
+        "College Ruled",
+        "Aesthetic Light Gray Lines",
+        "White Paper",
+        "Tactile Experience Cover",
+        "First Page Personalization"
+      ],
+      "amazon_link": "https://www.amazon.com/dp/B0DGVCTX42?ref_=pe_93986420_774957520"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGTG164F",
+      "title": "Sunset at Green Fields",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Independently published",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space, this notebook combines practical features with a sleek, modern design.",
+      "release_date": "2024-09-07",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": null,
+        "back_cover": null,
+        "entire_cover": null,
+        "inner_pages": [],
+        "mkt1": null,
+        "mkt2": null,
+        "mkt3": null
+      },
+      "other_notes": "Stylish and functional, this notebook is ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGTG164F"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGT93C19",
+      "title": "Gradient Blue & Blue Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Independently published",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space, this notebook combines practical features with a sleek, modern design.",
+      "release_date": "2024-09-07",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": null,
+        "back_cover": null,
+        "entire_cover": null,
+        "inner_pages": [],
+        "mkt1": null,
+        "mkt2": null,
+        "mkt3": null
+      },
+      "other_notes": "Stylish and functional, this notebook is ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGT93C19"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGT93C19",
+      "title": "Gradient Blue & Blue Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-07",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/gradient_blue_blue_notebook_cover.png",
+        "back_cover": "images/products/gradient_blue_blue_notebook_back_cover.png",
+        "entire_cover": "images/products/gradient_blue_blue_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/gradient_blue_blue_notebook_inner_1.png",
+          "images/products/gradient_blue_blue_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/gradient_blue_blue_notebook_mkt_1.png",
+        "mkt2": "images/products/gradient_blue_blue_notebook_mkt_2.png",
+        "mkt3": "images/products/gradient_blue_blue_notebook_mkt_3.png"
+      },
+      "other_notes": "Stylish and functional, this notebook is ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGT93C19"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGPLLXV3",
+      "title": "Mountain Lava Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-06",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/mountain_lava_notebook_cover.png",
+        "back_cover": "images/products/mountain_lava_notebook_back_cover.png",
+        "entire_cover": "images/products/mountain_lava_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/mountain_lava_notebook_inner_1.png",
+          "images/products/mountain_lava_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/mountain_lava_notebook_mkt_1.png",
+        "mkt2": "images/products/mountain_lava_notebook_mkt_2.png",
+        "mkt3": "images/products/mountain_lava_notebook_mkt_3.png"
+      },
+      "other_notes": "Stylish and functional, this notebook is ideal for students and professionals.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGPLLXV3"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGPXHYZ8",
+      "title": "Grand Canyon Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-06",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/grand_canyon_notebook_cover.png",
+        "back_cover": "images/products/grand_canyon_notebook_back_cover.png",
+        "entire_cover": "images/products/grand_canyon_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/grand_canyon_notebook_inner_1.png",
+          "images/products/grand_canyon_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/grand_canyon_notebook_mkt_1.png",
+        "mkt2": "images/products/grand_canyon_notebook_mkt_2.png",
+        "mkt3": "images/products/grand_canyon_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGPXHYZ8"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGPTXQGN",
+      "title": "All Orange Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-06",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/all_orange_notebook_cover.png",
+        "back_cover": "images/products/all_orange_notebook_back_cover.png",
+        "entire_cover": "images/products/all_orange_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/all_orange_notebook_inner_1.png",
+          "images/products/all_orange_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/all_orange_notebook_mkt_1.png",
+        "mkt2": "images/products/all_orange_notebook_mkt_2.png",
+        "mkt3": "images/products/all_orange_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGPTXQGN"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGGQK5D7",
+      "title": "All Red Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-05",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/all_red_notebook_cover.png",
+        "back_cover": "images/products/all_red_notebook_back_cover.png",
+        "entire_cover": "images/products/all_red_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/all_red_notebook_inner_1.png",
+          "images/products/all_red_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/all_red_notebook_mkt_1.png",
+        "mkt2": "images/products/all_red_notebook_mkt_2.png",
+        "mkt3": "images/products/all_red_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGGQK5D7"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGGQDDGN",
+      "title": "All Teal Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-05",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/all_teal_notebook_cover.png",
+        "back_cover": "images/products/all_teal_notebook_back_cover.png",
+        "entire_cover": "images/products/all_teal_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/all_teal_notebook_inner_1.png",
+          "images/products/all_teal_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/all_teal_notebook_mkt_1.png",
+        "mkt2": "images/products/all_teal_notebook_mkt_2.png",
+        "mkt3": "images/products/all_teal_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGGQDDGN"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGGMWYJT",
+      "title": "All Fuchsia Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-05",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/all_fuchsia_notebook_cover.png",
+        "back_cover": "images/products/all_fuchsia_notebook_back_cover.png",
+        "entire_cover": "images/products/all_fuchsia_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/all_fuchsia_notebook_inner_1.png",
+          "images/products/all_fuchsia_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/all_fuchsia_notebook_mkt_1.png",
+        "mkt2": "images/products/all_fuchsia_notebook_mkt_2.png",
+        "mkt3": "images/products/all_fuchsia_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGGMWYJT"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGG3KJX2",
+      "title": "Gradient Yellow & Pink Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-04",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/gradient_yellow_pink_notebook_cover.png",
+        "back_cover": "images/products/gradient_yellow_pink_notebook_back_cover.png",
+        "entire_cover": "images/products/gradient_yellow_pink_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/gradient_yellow_pink_notebook_inner_1.png",
+          "images/products/gradient_yellow_pink_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/gradient_yellow_pink_notebook_mkt_1.png",
+        "mkt2": "images/products/gradient_yellow_pink_notebook_mkt_2.png",
+        "mkt3": "images/products/gradient_yellow_pink_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals looking for a stylish and functional notebook.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGG3KJX2"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGG4J4WX",
+      "title": "Black with Label Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-04",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/black_with_label_notebook_cover.png",
+        "back_cover": "images/products/black_with_label_notebook_back_cover.png",
+        "entire_cover": "images/products/black_with_label_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/black_with_label_notebook_inner_1.png",
+          "images/products/black_with_label_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/black_with_label_notebook_mkt_1.png",
+        "mkt2": "images/products/black_with_label_notebook_mkt_2.png",
+        "mkt3": "images/products/black_with_label_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is ideal for students and professionals looking for a sleek and functional design.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGG4J4WX"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGG1HSFG",
+      "title": "All Black Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-04",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/all_black_notebook_cover.png",
+        "back_cover": "images/products/all_black_notebook_back_cover.png",
+        "entire_cover": "images/products/all_black_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/all_black_notebook_inner_1.png",
+          "images/products/all_black_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/all_black_notebook_mkt_1.png",
+        "mkt2": "images/products/all_black_notebook_mkt_2.png",
+        "mkt3": "images/products/all_black_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals who need a reliable and stylish writing solution.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGG1HSFG"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGF2JZ24",
+      "title": "Gradient Pink & Yellow Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-03",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/gradient_pink_yellow_notebook_cover.png",
+        "back_cover": "images/products/gradient_pink_yellow_notebook_back_cover.png",
+        "entire_cover": "images/products/gradient_pink_yellow_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/gradient_pink_yellow_notebook_inner_1.png",
+          "images/products/gradient_pink_yellow_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/gradient_pink_yellow_notebook_mkt_1.png",
+        "mkt2": "images/products/gradient_pink_yellow_notebook_mkt_2.png",
+        "mkt3": "images/products/gradient_pink_yellow_notebook_mkt_3.png"
+      },
+      "other_notes": "This notebook is perfect for students and professionals who need a reliable and stylish writing solution.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGF2JZ24"
+    },
+    {
+      "isbn": null,
+      "asin": "B0DGF376PX",
+      "title": "Red & Blue Cute Flowers Notebook",
+      "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
+      "author": "Qlir Publishing",
+      "target_audience": "Students, Professionals",
+      "publisher": "Qlir Publishing",
+      "language": "English",
+      "binding": "Paperback",
+      "content_type": "Notebook",
+      "category": "notebooks",
+      "genres": ["Creativity", "Art", "Writing"],
+      "description": "Elevate your writing experience with our premium College Ruled Notebook, designed for both functionality and style. Perfect for students, professionals, and anyone who values a well-organized writing space.",
+      "release_date": "2024-09-03",
+      "accessibility": null,
+      "size": {
+        "width": "8.5 inches",
+        "height": "11 inches",
+        "thickness": "0.23 inches"
+      },
+      "page_count": 100,
+      "original_price": "$6.99",
+      "sale_price": null,
+      "cover_material_type": "Matte",
+      "inner_paper_color": "White",
+      "weight": "11.2 ounces",
+      "product_images": {
+        "cover": "images/products/red_blue_cute_flowers_notebook_cover.png",
+        "back_cover": "images/products/red_blue_cute_flowers_notebook_back_cover.png",
+        "entire_cover": "images/products/red_blue_cute_flowers_notebook_entire_cover.png",
+        "inner_pages": [
+          "images/products/red_blue_cute_flowers_notebook_inner_1.png",
+          "images/products/red_blue_cute_flowers_notebook_inner_2.png"
+        ],
+        "mkt1": "images/products/red_blue_cute_flowers_notebook_mkt_1.png",
+        "mkt2": "images/products/red_blue_cute_flowers_notebook_mkt_2.png",
+        "mkt3": "images/products/red_blue_cute_flowers_notebook_mkt_3.png"
+      },
+      "other_notes": "Perfect for students and professionals who need a reliable and stylish writing solution.",
+      "checkbox_groups": {
+        "genres": ["Creativity", "Art", "Writing"],
+        "reading_level_and_ages": ["Students", "Adults"],
+        "accessibility": null,
+        "taxonomy": [
+          "Notebooks",
+          "Stationery",
+          "Journals",
+          "creativity",
+          "writing"
+        ]
+      },
+      "special_features": null,
+      "amazon_link": "https://www.amazon.com/dp/B0DGF376PX"
+    },
+    {
+      "isbn": null,
       "asin": "B0DG91XGG9",
       "title": "3D Polka Pink and Black Notebook",
       "subtitle": "College Ruled - Light Gray Lines - 8.5 x 11 inches - 100 pages",
@@ -208,7 +1159,7 @@
         ]
       },
       "special_features": null,
-      "amazon_link": "https://www.amazon.com/dp/B0DG5LSX9C"
+      "amazon_link": "https://www.amazon.com/dp/B0DG5FNR33"
     },
     {
       "isbn": null,
@@ -719,8 +1670,8 @@
         "height": "11 inches"
       },
       "page_count": 100,
-      "original_price": "$5.99",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "$5.99",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.75 lbs",
@@ -930,8 +1881,8 @@
         "height": "11 inches"
       },
       "page_count": 100,
-      "original_price": "$5.99",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": 5.99,
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.75 lbs",
@@ -984,8 +1935,8 @@
         "height": "11 inches"
       },
       "page_count": 100,
-      "original_price": "$5.99",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "5.99",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.75 lbs",
@@ -1038,8 +1989,8 @@
         "height": "11 inches"
       },
       "page_count": 100,
-      "original_price": "$5.99",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "$5.99",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.75 lbs",
@@ -1092,8 +2043,8 @@
         "height": "11 inches"
       },
       "page_count": 100,
-      "original_price": "$5.99",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "5.99",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.75 lbs",
@@ -1146,8 +2097,8 @@
         "height": "9 inches"
       },
       "page_count": 120,
-      "original_price": "$5.49",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "$5.49",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.5 lbs",
@@ -1200,8 +2151,8 @@
         "height": "9 inches"
       },
       "page_count": 120,
-      "original_price": "$5.49",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "$5.49",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.6 lbs",
@@ -1248,8 +2199,8 @@
         "height": "9 inches"
       },
       "page_count": 120,
-      "original_price": "$5.59",
-      "sale_price": null,
+      "original_price": "6.99",
+      "sale_price": "$5.59",
       "cover_material_type": "Matte",
       "inner_paper_color": "White",
       "weight": "0.5 lbs",

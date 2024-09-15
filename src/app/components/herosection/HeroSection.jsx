@@ -42,12 +42,14 @@ const HeroSection = () => {
         </section>
         <section className="flex flex-col m-auto">
           <h1 className="text-5xl text-center px-2">
-            A True Unique Experience
+            Unique Designs, Creative Journeys
           </h1>
           <br />
-          <h2 className="flex m-auto text-center px-2">
-            You can finally start the next chapter of the rest of you your
-            successful online career. This is ChapterOne.
+          <h2 className="flex m-auto text-center px-2 text-lg">
+            Start your next adventure with a collection that’s as unique as you.
+            Every creation is a reflection of original creativity, with
+            beautifully designed, one-of-a-kind covers. This is your next
+            chapter—with us.
           </h2>
           <br />
 

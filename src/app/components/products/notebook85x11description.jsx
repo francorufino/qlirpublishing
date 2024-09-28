@@ -44,8 +44,8 @@ const notebook85x11description = () => {
           professional look.
         </li>
         <li className="ml-5">
-          First Page Personalization: The first page includes a "This notebook
-          belongs to:" section along with additional space for notes, allowing
+          First Page Personalization: The first page includes a This notebook
+          belongs to: section along with additional space for notes, allowing
           you to personalize your notebook while keeping important details
           handy.
         </li>

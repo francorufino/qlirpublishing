@@ -16,7 +16,7 @@ const ProductDetail = ({ params }) => {
 
   return (
     <>
-      <section className=" bg-[url('/images/art/bg_products.png')]">
+      <section className=" bg-[url(/images/art/bg_products.png)]">
         <section className="flex m-auto justify-center max-w-screen-xl p-8">
           <section className="flex">
             <section className="flex flex-col">

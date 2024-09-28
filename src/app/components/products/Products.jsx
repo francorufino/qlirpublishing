@@ -25,7 +25,7 @@ const Products = () => {
             <li className="bg-mbrown py-4 px-6 rounded-lg">All</li>
             {/* <li className="border-2 border-mbrown py-2 px-6 rounded-lg">Books</li> */}
             <li className="border-2 border-mbrown py-2 px-6 rounded-lg">
-              Children's Books
+              Childrens Books
             </li>
             <li className="border-2 border-mbrown py-2 px-6 rounded-lg">
               Notebooks
